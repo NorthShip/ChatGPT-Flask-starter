@@ -1,5 +1,5 @@
 #### 说明
-下面是一个可以支持用户通过Web页面调用ChatGPT服务的示例Web服务。这个Web服务使用Python的Flask框架，并使用HTTP POST请求发送文本消息，并接收ChatGPT服务的响应。
+下面是一个可以支持用户通过Web页面调用ChatGPT服务的示例Web服务。这个Web服务使用Python的Flask框架，使用HTTP POST请求发送文本消息，并接收ChatGPT服务的响应。
 #### 安装Flask
 ```python
 pip install flask
