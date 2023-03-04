@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+<head>
+    <title>ChatGPT</title>
+</head>
+<body>
+<h1>ChatGPT</h1>
+<form method="POST">
+    <input type="text" name="prompt" placeholder="Enter your message...">
+    <input type="submit" value="Send">
+</form>
+{% if result %}
+<p>{{ result }}</p>
+{% endif %}
+</body>
+</html>
