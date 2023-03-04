@@ -10,4 +10,4 @@ pip install flask
 export FLASK_APP=app.py
 flask run
 ```
-打开浏览器，并在地址栏中输入“http://localhost:5000/”以访问这个Web服务。
+打开浏览器，并在地址栏中输入“http://localhost:5000/” 以访问这个Web服务。
